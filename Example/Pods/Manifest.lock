@@ -1,0 +1,16 @@
+PODS:
+  - TFHelper (0.1.0)
+
+DEPENDENCIES:
+  - TFHelper (from `../`)
+
+EXTERNAL SOURCES:
+  TFHelper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  TFHelper: 49d1dbf6ec45b4866d662bd2d2617bcb74bda6d0
+
+PODFILE CHECKSUM: fb6681431e0b1593ea51180e4d04c4c52da054cc
+
+COCOAPODS: 1.8.4

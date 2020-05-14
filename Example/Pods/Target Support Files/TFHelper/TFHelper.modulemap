@@ -1,0 +1,6 @@
+framework module TFHelper {
+  umbrella header "TFHelper-umbrella.h"
+
+  export *
+  module * { export * }
+}
